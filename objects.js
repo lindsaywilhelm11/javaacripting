@@ -5,3 +5,4 @@ const pizza = {
 }
 
 console.log(pizza);
+
